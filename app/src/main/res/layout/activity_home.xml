@@ -37,7 +37,7 @@
             android:id="@+id/img_banner"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:src="@mipmap/ic_launcher"
+            android:src="@drawable/img_home_banner"
             android:scaleType="centerCrop"
             android:background="#E8EAED"
             android:contentDescription="Banner Sport Center"
