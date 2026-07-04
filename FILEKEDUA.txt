@@ -1,1 +1,1 @@
-INI FILE KEDUA
+﻿Ini adalah file kedua untuk pengujian commit

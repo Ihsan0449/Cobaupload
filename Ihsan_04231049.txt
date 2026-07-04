@@ -1,0 +1,7 @@
+﻿Nama: Muhamad Ihsan
+NIM: 04231049
+Prodi: Teknik Elektro
+Instansi: Institut Teknologi Kalimantan
+Mata Kuliah: Pemrograman Berorientasi Objek B
+Tugas: Latihan Git - Persiapan PBL (CPMK-4)
+Status: Selesai Latihan Git
